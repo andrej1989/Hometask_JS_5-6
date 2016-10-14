@@ -1,0 +1,35 @@
+.container{
+	padding-top: 70px;
+}
+
+.btns{
+	width: 70px;
+	margin: 10px;
+}
+
+.buttons{
+	margin: 0 auto;
+	width: 227px;
+}
+
+.buttons .btn{
+	outline: none;
+}
+
+.btn-info{
+	margin-right: 10px;
+}
+
+.times-btn{
+	width: 200px;
+	display: block;
+	margin: 0 auto;
+	margin-bottom: 10px;
+	font-size: 25px;
+}
+
+.stat{
+	width: 203px;
+	margin: 20px auto;
+	font-size: 20px;
+}
